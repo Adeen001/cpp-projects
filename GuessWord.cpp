@@ -4,7 +4,7 @@
 using namespace std;
 
 
-
+//comment
 void displayMenu() {
     cout << "========================\n";
     cout << "      GUESS A WORD      \n";
